@@ -1,4 +1,4 @@
-### Hi there 👋
+[![byeukim's 42 stats](https://badge42.vercel.app/api/v2/cl1n3cqd8003509laoux7m0jr/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **bingu-k/bingu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
