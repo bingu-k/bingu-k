@@ -1,4 +1,5 @@
 ## 안녕하세요✿
+#### 끊임없는 도전을 위해 달려갑니다.
 
 [![byeukim's 42 stats](https://badge42.vercel.app/api/v2/cl1n3cqd8003509laoux7m0jr/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
